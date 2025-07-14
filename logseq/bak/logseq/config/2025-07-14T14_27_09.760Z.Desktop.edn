@@ -420,5 +420,5 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
- :default-home {:page "contents"}
+ :default-home {}
  :feature/enable-flashcards? false}
