@@ -98,4 +98,12 @@
 		- questions?
 			- for event publication, people sometimes want rsvps to be private?
 				- have a plan for urself or waiting for upstream? mls/e2ee or atproto private data
-				- a: there's private b
+				- a: there's private blobs or private records
+					- nick:
+						- probably private records will be on a separate private pds
+						- i don't love the idea of having to encrypt records. it's messy
+						- no idea what upstream will do
+					- boris:
+						- there has been no public work on private data. lots of interest, lots of waiting on upstream bsky team
+						- there's an rfc around private data https://github.com/knasher/rfcs/blob/main/atproto/001-private-content.md
+						- if you have skills around cryptography and distributed systems, contact boris
