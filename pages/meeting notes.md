@@ -3,14 +3,13 @@
 		- lots of people contributed D: couldn't write down everyone
 		- ![image.png](../assets/image_1753373418880_0.png)
 		- ![image.png](../assets/image_1753373502697_0.png)
-			- lots of stuff such as auth has been moved from app into crates #todo add linknick
-			- real app with xrpc
+			- lots of stuff such as auth has been moved from app into [rust crates](https://crates.io/users/ngerakines?sort=downloads)
 		- local dev setup?
 			- https://tangled.sh/@smokesignal.events/localdev
 		- what is postgres for?
 			- deduplicating the local copies of repos from pdses (cache)
 			- sharing schemas across apps
-		- what we learned?
+		- what have we learned in a year?
 		  collapsed:: true
 			- rust was a good call
 			- no official libraries. started using atrium, but it didn't make it easy to create and work with custom lexicons. so rolled my own client
@@ -33,10 +32,10 @@
 					- IP-related code search is a racket
 			-
 		- Smoke Signal as infrastructure
-			- there needs to be some baseline for applications that work with events.
-			- need to figure out what xrpc procedures should be in lexicon.community #followup
+			- there needs to be some baseline for applications that work with events to build more complicated apps such as a meetup.com equivalent
+			- need to figure out what xrpc procedures should be in ss vs in lexicon.community #followup
 		- Bringing atmospthere to the web
-			- dislike closed ecosystem of meetup.com
+			- dislike closed ecosystem of web apps such as meetup
 			- data needs to be open and easy to work with.
 				- widgets, rss feeds
 					- ![image.png](../assets/image_1753374936113_0.png)
