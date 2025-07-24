@@ -124,4 +124,6 @@
 					- smokesignal events for canada might be a good idea too. this would eat fb groups/events
 				- off the record:
 					- in grain.social, follows are bsky follows?
-					-
+					- plans for lexicon community conf in january
+					- aip:
+						- if you have a cluster of apps
