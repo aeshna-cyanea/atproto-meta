@@ -35,4 +35,13 @@
 			-
 		- Smoke Signal as infrastructure
 			- there needs to be some baseline for applications that work with events.
-			- need to figure out what xrpc procedures should be in lexicon.community
+			- need to figure out what xrpc procedures should be in lexicon.community #followup
+		- Bringing atmospthere to the web
+			- dislike closed ecosystem of meetup.com
+			- data needs to be open and easy to work with.
+				- widgets, rss feeds
+					- ![image.png](../assets/image_1753374936113_0.png)
+		- event organizer tools
+			- xrpc webhooks
+				- strongly typed and openly defined webhooks
+				- create xprc procedures based on those hooks
