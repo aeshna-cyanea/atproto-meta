@@ -45,3 +45,6 @@
 			- xrpc webhooks
 				- strongly typed and openly defined webhooks
 				- create xprc procedures based on those hooks
+			- ![image.png](../assets/image_1753375016767_0.png)
+		- ephemeral records?? i didn't catch this
+			- for private data
