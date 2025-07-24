@@ -126,4 +126,5 @@
 					- in grain.social, follows are bsky follows?
 					- plans for lexicon community conf in january
 					- aip:
-						- if you have a cluster of apps
+						- if you have a cluster of apps with an aip instance, it could use labels for auth/scopes and moderation
+					- webvh
