@@ -127,3 +127,4 @@
 					- plans for lexicon community conf in january
 					- aip:
 						- if you have a cluster of apps with an aip instance, it could use account labels for auth/scopes and moderation
+					- if you want to build something on top of ss,
