@@ -79,3 +79,8 @@
 			- single-event webpage. lets organizer showcase 1 event and let people rsvp, buy tickets etc
 				- ![image.png](../assets/image_1753375889518_0.png)
 			- when you purchase ticket, app receives webhook back and can create the rsvp record on your behalf, or create signed badges
+				- comments suggested https://ti.to/ as good ticketing platform
+			- also a way to aggregate these attestations
+		- service2service
+			- event resolution/discovery/search can happen without the user touching smokesignal. just an api??
+			- want a variety of apps using the event/rsvp lexicons
