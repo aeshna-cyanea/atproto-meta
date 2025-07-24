@@ -6,7 +6,7 @@
 		- ![image.png](../assets/image_1753373502697_0.png)
 			- lots of stuff such as auth has been moved from app into crates #todo add link
 			- real app with xrpc
-		- q: local dev setup?
+		- local dev setup?
 			- https://tangled.sh/@smokesignal.events/localdev
 		- what is postgres for?
 			- deduplicating the local copies of repos from pdses (cache)
