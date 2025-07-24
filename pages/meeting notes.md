@@ -110,7 +110,9 @@
 								- but pretty high bar
 								- lots of ambient pressure people who don't care and want it done yesterday. trying to keep noise out
 				- more on ticketing?
-					- wants to fuck up ticketmaster
-						- seed used to validate timing
+					- want to fuck up ticketmaster
+						- seed used to validate timing (like fido)
 						- seed for time based qr code gen in mobile app
-						-
+						- wants to pull up a phone with an attested copy of rsvp, signer verifies identity and compares to existing record
+						- some ppl (stel) have done stuff with wallet linking
+					- good usecase for ss as infra
