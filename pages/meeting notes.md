@@ -84,3 +84,9 @@
 		- service2service
 			- event resolution/discovery/search can happen without the user touching smokesignal. just an api??
 			- want a variety of apps using the event/rsvp lexicons
+				- could be not just a meetup but also a corporate event etc. like an appointment with a hair salon idk
+		- monetization strategy?
+			- base app is discovery/engagement
+			- needs to be hooked up to mailer service. could be a premium service
+			- need to respect core value of ownership of identity/ mobility of data
+		- we have a
