@@ -119,4 +119,6 @@
 						- needs to be adapted for different usecases like meetup.com vs luma
 							- #TODO this needs to be elaborated on
 						- ghost newsletter should be linked to events. hard to code but should be linked to events
-							- possibly a monetizable service
+							- possibly a monetizable service. but the core is always owned and portable data.
+				- boris is working with gander.social is a canadian bsky instance
+					- smokesignal events for canada might be a good idea too. this would eat fb groups/events
