@@ -12,6 +12,7 @@
 			- deduplicating the local copies of repos from pdses (cache)
 			- sharing schemas across apps
 		- what we learned?
+		  collapsed:: true
 			- rust was a good call
 			- no official libraries. started using atrium, but it didn't make it easy to create and work with custom lexicons. so rolled my own client
 			- oauth isn't that hard
@@ -30,4 +31,8 @@
 					- Text lookups/ast lookups in ide are rly good
 				- does ai create licensing issues?
 					- there needs to be a wide debate about IP and credit. My blanket solution is to be open abt using ai, and license permissively (mit)
-				-
+					- IP-related code search is a racket
+			-
+		- Smoke Signal as infrastructure
+			- there needs to be some baseline for applications that work with events.
+			- need to figure out what xrpc procedures should be in lexicon.community
