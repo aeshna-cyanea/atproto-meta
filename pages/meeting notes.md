@@ -8,4 +8,7 @@
 			- real app with xrpc
 		- q: local dev setup?
 			- https://tangled.sh/@smokesignal.events/localdev
+		- what is postgres for?
+			- deduplicating the local copies of repos from pdses (cache)
+			- sharing schemas across apps
 			-
