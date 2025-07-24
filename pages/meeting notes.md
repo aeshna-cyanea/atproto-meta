@@ -1,3 +1,4 @@
 - [ATProtocol Dev Talks: Smoke Signal Turns one](https://smokesignal.events/did:plc:lehcqqkwzcwvjvw66uthu5oq/3ltwkusl2wq2m?ref=atprotocol.dev)
 	- retrospective on SS
-		-
+		- lots of people contributed D:
+		- nick's wikipedia page got deleted
