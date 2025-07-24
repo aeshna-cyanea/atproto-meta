@@ -25,5 +25,7 @@
 			- bulma and picocss are fine. nick is not a frontend guy apparently
 			- really glad that i bother people about design decisions
 				- like what should a field be named in a record
-				-
+			- ai is a 10x enabling force
+				- end of last year was rough, end of spring was rough (something like writer's block). ai is especially well suited for rust, rust is strict, and errors are very detailed.
+					- Text lookups/ast lookups in ide are rly good
 			-
