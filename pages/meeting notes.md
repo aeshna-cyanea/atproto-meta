@@ -28,4 +28,6 @@
 			- ai is a 10x enabling force
 				- end of last year was rough, end of spring was rough (something like writer's block). ai is especially well suited for rust, rust is strict, and errors are very detailed.
 					- Text lookups/ast lookups in ide are rly good
-			-
+				- does ai create licensing issues?
+					- there needs to be a wide debate about IP and credit. My blanket solution is to be open abt using ai, and license permissively (mit)
+				-
