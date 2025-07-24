@@ -68,5 +68,10 @@
 				- so if someone never logs in, their events are not indexed
 				- can also used for reactive moderation (banned accounts not indexed either)
 		- AI
-			- have a working MCP, can ask claude to fill an
-			-
+			- have a working MCP server, i can ask claude to make an even with certain fields
+				- claude knows enough to sign in with AIP and invoke the needed xrpc methods
+			- potential discussion for authorship/attribution
+		- interest profiles (event categories)
+			- how do i convey my location-related interests in a safe way?
+				- need to figure this out #followup
+			- also cultural/thematic categories.
