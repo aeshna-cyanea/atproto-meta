@@ -89,4 +89,8 @@
 			- base app is discovery/engagement
 			- needs to be hooked up to mailer service. could be a premium service
 			- need to respect core value of ownership of identity/ mobility of data
-		- we have a
+		- we have a [discourse forum](https://discourse.smokesignal.events/) with both oidc and atproto oauth
+			- discussions on localization and scope
+			- announcements
+		- donate link: fuck u give me $5 https://opencollective.com/atprotocoldev/projects/smoke-signal
+			- maybe worth paying people for time on educating
