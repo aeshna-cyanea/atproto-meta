@@ -44,6 +44,7 @@
 		- event organizer tools
 			- [xrpc webhooks](https://bsky.app/profile/smokesignal.events/post/3lugrsnmsyk2e)
 				- https://blog.smokesignal.events/posts/3luduqmekg52a-xrpc-webhooks-protocol-adjacent-event-streams
+				- invoker says what they're providing
 				- same broad pattern as subscribing to a feedgen record, it also serves personalized data
 				- strongly typed and openly defined webhooks
 				- create xprc procedures based on those hooks
@@ -51,5 +52,8 @@
 		- ephemeral records?? i didn't catch this
 			- for private data
 			- organizer links into a 3p service like for sending out zoom links
-		-
-		-
+		- decentralized multi service profile?
+			- aip exists in oidc world. how to represent the decentralized (across apps) to oidc. CSS/inheritance for profile fields D:
+		- locations. skyler/ms boba have been working on it
+		- feeds
+			-
