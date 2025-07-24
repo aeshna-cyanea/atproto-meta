@@ -13,4 +13,8 @@
 			- sharing schemas across apps
 		- what we learned?
 			- rust was a good call
-			-
+			- no official libraries. started using atrium, but it didn't make it easy to create and work with custom lexicons. so rolled my own client
+			- oauth isn't that hard
+				- considered starting a tutoring service for auth impl lol
+				- just need to understand resource server, protected server, dynamic client registration, dpop, etc
+				- #1 question about atp dev is oauth
