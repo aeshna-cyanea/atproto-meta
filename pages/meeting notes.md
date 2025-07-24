@@ -16,5 +16,9 @@
 			- no official libraries. started using atrium, but it didn't make it easy to create and work with custom lexicons. so rolled my own client
 			- oauth isn't that hard
 				- considered starting a tutoring service for auth impl lol
-				- just need to understand resource server, protected server, dynamic client registration, dpop, etc
-				- #1 question about atp dev is oauth
+				- just need to understand resource server, protected server, dynamic client registration, dpop, parametrized request etc
+				- no. 1 question about atp dev is oauth. commonly missed points:
+					- dpop
+					- "why can't i make this request from frontend"
+					- oauth and id registration are linked
+				- oauth client metadata is supposed to predeclare, but there might be so many scopes it won't fit into a record. worried there might be a lot of wildcards
