@@ -122,3 +122,6 @@
 							- possibly a monetizable service. but the core is always owned and portable data.
 				- boris is working with gander.social is a canadian bsky instance
 					- smokesignal events for canada might be a good idea too. this would eat fb groups/events
+				- off the record:
+					- in grain.social, follows are bsky follows?
+					-
