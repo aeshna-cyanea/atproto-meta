@@ -63,4 +63,10 @@
 		- rsvp signing
 			- confirmations/attestation for RSVPs
 		- moderation
+			- so far have avoiding moderation. only one spammer so far
+			- subscribed to jetstream so events are accepted from anywhere, but only indexed on the app if the user has signed in to smokesignal.
+				- so if someone never logs in, their events are not indexed
+				- can also used for reactive moderation (banned accounts not indexed either)
+		- AI
+			- have a working MCP, can ask claude to fill an
 			-
