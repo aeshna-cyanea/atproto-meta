@@ -42,9 +42,11 @@
 				- widgets, rss feeds
 					- ![image.png](../assets/image_1753374936113_0.png)
 		- event organizer tools
-			- xrpc webhooks
+			- [xrpc webhooks](https://bsky.app/profile/smokesignal.events/post/3lugrsnmsyk2e)
 				- strongly typed and openly defined webhooks
 				- create xprc procedures based on those hooks
 			- ![image.png](../assets/image_1753375016767_0.png)
 		- ephemeral records?? i didn't catch this
 			- for private data
+			- organizer links into a 3p service like for sending out zoom links
+		-
