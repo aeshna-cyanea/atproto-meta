@@ -21,4 +21,9 @@
 					- dpop
 					- "why can't i make this request from frontend"
 					- oauth and id registration are linked
-				- oauth client metadata is supposed to predeclare, but there might be so many scopes it won't fit into a record. worried there might be a lot of wildcards
+				- oauth client metadata is supposed to predeclare scopes, but there might be so many scopes it won't fit into a record. worried there might be a lot of wildcards
+			- bulma and picocss are fine. nick is not a frontend guy apparently
+			- really glad that i bother people about design decisions
+				- like what should a field be named in a record
+				-
+			-
