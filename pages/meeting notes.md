@@ -55,5 +55,12 @@
 		- decentralized multi service profile?
 			- aip exists in oidc world. how to represent the decentralized (across apps) to oidc. CSS/inheritance for profile fields D:
 		- locations. skyler/ms boba have been working on it
-		- feeds
+		- feeds (of events)
+			- i want to be a lazy as possible
+			- feeds should support a broad list of record types
+			- should be used to generate calendars
+			- personal note: excited about graze.social, including for prospects of non-post feeds
+		- rsvp signing
+			- confirmations/attestation for RSVPs
+		- moderation
 			-
