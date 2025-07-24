@@ -106,4 +106,11 @@
 					- boris:
 						- there has been no public work on private data. lots of interest, lots of waiting on upstream bsky team
 						- there's an rfc around private data https://github.com/knasher/rfcs/blob/main/atproto/001-private-content.md
-						- if you have skills around cryptography and distributed systems, contact boris
+							- if you have serious skills around cryptography and distributed systems, contact boris privately, he has a group
+								- but pretty high bar
+								- lots of ambient pressure people who don't care and want it done yesterday. trying to keep noise out
+				- more on ticketing?
+					- wants to fuck up ticketmaster
+						- seed used to validate timing
+						- seed for time based qr code gen in mobile app
+						-
