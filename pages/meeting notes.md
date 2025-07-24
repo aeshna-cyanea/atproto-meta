@@ -93,4 +93,9 @@
 			- discussions on localization and scope
 			- announcements
 		- donate link: fuck u give me $5 https://opencollective.com/atprotocoldev/projects/smoke-signal
-			- maybe worth paying people for time on educating
+			- maybe worth paying people for time on educating people.
+		- also give money to blacksky
+		- questions?
+			- for event publication, people sometimes want rsvps to be private?
+				- have a plan for urself or waiting for upstream? mls/e2ee or atproto private data
+				- a: there's private b
