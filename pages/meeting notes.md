@@ -1,10 +1,9 @@
 - [ATProtocol Dev Talks: Smoke Signal Turns one](https://smokesignal.events/did:plc:lehcqqkwzcwvjvw66uthu5oq/3ltwkusl2wq2m?ref=atprotocol.dev)
 	- retrospective on SS
-		- lots of people contributed D:
-		- nick's wikipedia page got deleted
+		- lots of people contributed D: couldn't write down everyone
 		- ![image.png](../assets/image_1753373418880_0.png)
 		- ![image.png](../assets/image_1753373502697_0.png)
-			- lots of stuff such as auth has been moved from app into crates #todo add link
+			- lots of stuff such as auth has been moved from app into crates #todo add linknick
 			- real app with xrpc
 		- local dev setup?
 			- https://tangled.sh/@smokesignal.events/localdev
@@ -127,4 +126,4 @@
 					- plans for lexicon community conf in january
 					- aip:
 						- if you have a cluster of apps with an aip instance, it could use account labels for auth/scopes and moderation
-					- if you want to build something on top of ss,
+					- if you want to build something on top of ss, go to the forum. there's grants
