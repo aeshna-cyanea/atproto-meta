@@ -2,3 +2,5 @@
 	- retrospective on SS
 		- lots of people contributed D:
 		- nick's wikipedia page got deleted
+		- ![image.png](../assets/image_1753373418880_0.png)
+			- apevents made in 2023
