@@ -3,4 +3,6 @@
 		- lots of people contributed D:
 		- nick's wikipedia page got deleted
 		- ![image.png](../assets/image_1753373418880_0.png)
-			- apevents made in 2023
+		- ![image.png](../assets/image_1753373502697_0.png)
+			- lots of stuff such as auth has been moved from app into crates #todo add link
+			- real app with xrpc
