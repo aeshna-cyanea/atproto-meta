@@ -115,4 +115,8 @@
 						- seed for time based qr code gen in mobile app
 						- wants to pull up a phone with an attested copy of rsvp, signer verifies identity and compares to existing record
 						- some ppl (stel) have done stuff with wallet linking
-					- good usecase for ss as infra
+					- good usecase for ss as infra (like with emailer)
+						- needs to be adapted for different usecases like meetup.com vs luma
+							- #TODO this needs to be elaborated on
+						- ghost newsletter should be linked to events. hard to code but should be linked to events
+							- possibly a monetizable service
