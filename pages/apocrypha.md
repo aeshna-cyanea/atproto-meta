@@ -4,16 +4,19 @@
   :END:
 - [some stuff is now in internal repos](https://github.com/bluesky-social/atproto/discussions/4068#discussioncomment-13882493)
 - TODO trawl github issues and discussions
+  collapsed:: true
 	- https://github.com/bluesky-social/atproto/issues?q=+has%3Acomments+sort%3Acomments-desc+is%3Aissue
 	- https://github.com/bluesky-social/atproto/discussions
 	- https://github.com/bluesky-social/social-app/issues?q=is%3Aissue+sort%3Areactions-%2B1-desc+-label%3Ax%3Aon-the-roadmap+
 	- some sort of github graphql to search for dev responses comments filtered by length? idk
 - basic design
+  collapsed:: true
 	- https://www.pfrazee.com/tags/atproto
 		- https://www.pfrazee.com/blog/why-not-rdf
 		- https://www.pfrazee.com/blog/why-facets
 		- https://www.pfrazee.com/blog/why-not-p2p
 - general protocol
+	- [records can't really be big, if even a small fraction were over ~500kb~ it would break the firehose](https://bsky.app/profile/bnewbold.net/post/3lwi7zjoglc2z)
 	- question: why aren't did:plc ids meaningful?
 		- https://deer.social/profile/did:plc:i3gjwozl32eq3j3ejyw44hh4/post/3lsogbupmt22d
 	- [neglected local-first ideas](https://bsky.app/profile/bumblefudge.com/post/3ltvvsvpfek2f)
